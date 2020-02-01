@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/batistaoliveira/home/static/css/main.015a1d5d.chunk.css",
-    "main.js": "/batistaoliveira/home/static/js/main.f680d044.chunk.js",
-    "main.js.map": "/batistaoliveira/home/static/js/main.f680d044.chunk.js.map",
-    "runtime~main.js": "/batistaoliveira/home/static/js/runtime~main.6076838b.js",
-    "runtime~main.js.map": "/batistaoliveira/home/static/js/runtime~main.6076838b.js.map",
-    "static/js/2.dffd3d12.chunk.js": "/batistaoliveira/home/static/js/2.dffd3d12.chunk.js",
-    "static/js/2.dffd3d12.chunk.js.map": "/batistaoliveira/home/static/js/2.dffd3d12.chunk.js.map",
-    "index.html": "/batistaoliveira/home/index.html",
-    "precache-manifest.82d3d6c4144d2798058d7705db517545.js": "/batistaoliveira/home/precache-manifest.82d3d6c4144d2798058d7705db517545.js",
-    "service-worker.js": "/batistaoliveira/home/service-worker.js",
-    "static/css/main.015a1d5d.chunk.css.map": "/batistaoliveira/home/static/css/main.015a1d5d.chunk.css.map",
-    "static/media/main.scss": "/batistaoliveira/home/static/media/Raleway-Thin.9f5eec4e.ttf"
+    "main.css": "./static/css/main.a6feaefa.chunk.css",
+    "main.js": "./static/js/main.f0c0c64d.chunk.js",
+    "main.js.map": "./static/js/main.f0c0c64d.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.dffd3d12.chunk.js": "./static/js/2.dffd3d12.chunk.js",
+    "static/js/2.dffd3d12.chunk.js.map": "./static/js/2.dffd3d12.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.c074f4b20f8381206f80dbfd997229f5.js": "./precache-manifest.c074f4b20f8381206f80dbfd997229f5.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.a6feaefa.chunk.css.map": "./static/css/main.a6feaefa.chunk.css.map",
+    "static/media/main.scss": "./static/media/Raleway-Thin.9f5eec4e.ttf"
   }
 }
