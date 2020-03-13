@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.6b69ebc2.chunk.css",
-    "main.js": "./static/js/main.47d2047a.chunk.js",
-    "main.js.map": "./static/js/main.47d2047a.chunk.js.map",
+    "main.js": "./static/js/main.47ed0a3f.chunk.js",
+    "main.js.map": "./static/js/main.47ed0a3f.chunk.js.map",
     "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
     "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
     "static/js/2.36c264cf.chunk.js": "./static/js/2.36c264cf.chunk.js",
     "static/js/2.36c264cf.chunk.js.map": "./static/js/2.36c264cf.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.71ff1a5b65b4f39116798d65662e3686.js": "./precache-manifest.71ff1a5b65b4f39116798d65662e3686.js",
+    "precache-manifest.bc18fe7e35682ec7bdd0078a9694872a.js": "./precache-manifest.bc18fe7e35682ec7bdd0078a9694872a.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.6b69ebc2.chunk.css.map": "./static/css/main.6b69ebc2.chunk.css.map",
     "static/media/about.scss": "./static/media/OpenSans-Semibold.33f225b8.ttf",
