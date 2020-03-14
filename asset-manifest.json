@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.8750b930.chunk.css",
-    "main.js": "./static/js/main.8fa8f335.chunk.js",
-    "main.js.map": "./static/js/main.8fa8f335.chunk.js.map",
+    "main.js": "./static/js/main.842adab2.chunk.js",
+    "main.js.map": "./static/js/main.842adab2.chunk.js.map",
     "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
     "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
     "static/js/2.36c264cf.chunk.js": "./static/js/2.36c264cf.chunk.js",
     "static/js/2.36c264cf.chunk.js.map": "./static/js/2.36c264cf.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.3c61975395cd9b430388d08f6f579873.js": "./precache-manifest.3c61975395cd9b430388d08f6f579873.js",
+    "precache-manifest.8353110307359d5814c04c70592e542e.js": "./precache-manifest.8353110307359d5814c04c70592e542e.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.8750b930.chunk.css.map": "./static/css/main.8750b930.chunk.css.map",
     "static/media/about.scss": "./static/media/OpenSans-Semibold.33f225b8.ttf",
